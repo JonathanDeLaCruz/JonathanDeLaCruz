@@ -52,7 +52,7 @@ Desarrollo, mantengo e integro **plataformas institucionales y nacionales**. Com
 | [🎨 Interfaces de Usuarios](https://github.com/JonathanDeLaCruz/Interfaces-de-Usuarios) | Diseño e implementación de interfaces |
 | [🧮 Fundamentos de Programación](https://github.com/JonathanDeLaCruz/Fundamentos_Programacion) | Bases de la programación |
 | [🗄️ CRUD con Node.js y MariaDB](https://github.com/JonathanDeLaCruz/CRUD_NODEJS_MARIADB) | Ejemplo práctico de backend con base de datos |
-| [🐳 Docker para móviles](https://github.com/JonathanDeLaCruz/docker_moviles) | Entorno con contenedores para desarrollo móvil |
+| [🐳 Entorno del curso de móviles](https://github.com/JonathanDeLaCruz/docker_moviles) | Ionic + Angular, Directus y MariaDB en Docker, con manuales paso a paso |
 | [🥽 Realidad aumentada](https://github.com/JonathanDeLaCruz/realidad-aumentada) | Experimentos de RA en la web |
 
 ## 📊 Estadísticas
