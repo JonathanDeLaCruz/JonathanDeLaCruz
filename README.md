@@ -44,9 +44,7 @@ Desarrollo, mantengo e integro **plataformas institucionales y nacionales**. Com
 
 </div>
 
-## ⭐ Proyectos destacados
-
-### 📦 Joan User Management
+## ⭐ Proyecto destacado: Joan User Management
 
 <div align="center">
 
@@ -68,14 +66,6 @@ Módulo completo de **usuarios y seguridad para Yii2**, modernizado a partir de 
 ```bash
 composer require "joan/user-management:^3.4"
 ```
-
-### 🏛️ TecNM UI para Yii2 <sub>(joan/tecnm-ui · uso institucional)</sub>
-
-Plantilla administrativa que se integra con Joan User Management y da a los sistemas del instituto una sola **identidad, inicio de sesión y menú**:
-
-- 🧭 Portal de aplicaciones con **menú lateral administrable** desde la base de datos, con permisos por rol.
-- 🔗 Un **sistema central** con el único inicio de sesión y **sistemas hijos** conectados a él.
-- 📊 Periodos académicos, avisos, estadísticas de uso, auditoría, bloqueo de IP y respaldos cifrados.
 
 ## 📚 Repos para mis clases
 
