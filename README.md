@@ -9,7 +9,6 @@
 <p>
   <a href="https://jonathandelacruzalvarez.dev"><img src="https://img.shields.io/badge/Portafolio-jonathandelacruzalvarez.dev-344b6b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
   <img src="https://img.shields.io/badge/Villahermosa-Tabasco%2C%20MX-6a3d9a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
-  <img src="https://komarev.com/ghpvc/?username=JonathanDeLaCruz&style=for-the-badge&color=344b6b&label=Visitas" alt="Visitas" />
 </p>
 
 </div>
@@ -21,6 +20,7 @@ Desarrollo, mantengo e integro **plataformas institucionales y nacionales**. Com
 - 🏛️ Desarrollador de **CAT y EVALDEP**, plataformas nacionales del **Tecnológico Nacional de México**.
 - 🧱 Desarrollador senior y líder técnico en el **Instituto Tecnológico de Villahermosa** (SRB, SWS, SIGEVI, SAC, SISCA, SATME, SAED).
 - 👨‍🏫 **Profesor universitario**: Bases de Datos, Aplicaciones Móviles, Diseño de Interfaces, Programación para Ciencia de Datos y Gestión de Servicios TI.
+- 📦 Autor de **[joan/user-management](https://packagist.org/packages/joan/user-management)**, paquete open source de usuarios y seguridad para Yii2.
 - 🏆 Organizo concursos y el club de programación **NextCode** y acompaño equipos en **Hackaguar**.
 - 🎓 Doctorado en Sistemas Computacionales · Maestría en Tecnologías de la Información · Ing. en Sistemas Computacionales.
 
@@ -44,6 +44,29 @@ Desarrollo, mantengo e integro **plataformas institucionales y nacionales**. Com
 
 </div>
 
+## ⭐ Proyecto destacado: Joan User Management
+
+<div align="center">
+
+<a href="https://github.com/JonathanDeLaCruz/user-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanDeLaCruz&repo=user-management&theme=tokyonight&hide_border=true&show_owner=true" alt="joan/user-management" /></a>
+
+<a href="https://packagist.org/packages/joan/user-management"><img src="https://img.shields.io/packagist/v/joan/user-management?style=for-the-badge&logo=packagist&logoColor=white&color=344b6b&label=Packagist" alt="Versión en Packagist" /></a>
+<a href="https://packagist.org/packages/joan/user-management"><img src="https://img.shields.io/packagist/dt/joan/user-management?style=for-the-badge&color=6a3d9a&label=Descargas" alt="Descargas" /></a>
+<img src="https://img.shields.io/badge/PHP-8.2%20%E2%80%93%208.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2 a 8.5" />
+<img src="https://img.shields.io/badge/Yii2-Bootstrap%205-0073BB?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Yii2 y Bootstrap 5" />
+
+</div>
+
+Módulo completo de **usuarios y seguridad para Yii2**, modernizado a partir de webvimark y publicado en Packagist:
+
+- 🔐 Roles y permisos **RBAC**, registro, inicio de sesión y recuperación de contraseña.
+- 🛡️ **MFA** con Google Authenticator, **passkeys**, sesiones activas y auditoría.
+- ⚙️ PHP 8.2–8.5 (8.6 experimental), Yii 2.0.55+ e interfaz con Bootstrap 5.
+
+```bash
+composer require "joan/user-management:^3.4"
+```
+
 ## 📚 Repos para mis clases
 
 | Curso / proyecto | Descripción |
@@ -53,7 +76,6 @@ Desarrollo, mantengo e integro **plataformas institucionales y nacionales**. Com
 | [🧮 Fundamentos de Programación](https://github.com/JonathanDeLaCruz/Fundamentos_Programacion) | Bases de la programación |
 | [🗄️ CRUD con Node.js y MariaDB](https://github.com/JonathanDeLaCruz/CRUD_NODEJS_MARIADB) | Ejemplo práctico de backend con base de datos |
 | [🐳 Entorno del curso de móviles](https://github.com/JonathanDeLaCruz/docker_moviles) | Ionic + Angular, Directus y MariaDB en Docker, con manuales paso a paso |
-| [🥽 Realidad aumentada](https://github.com/JonathanDeLaCruz/realidad-aumentada) | Experimentos de RA en la web |
 
 ## 📊 Estadísticas
 
@@ -61,10 +83,6 @@ Desarrollo, mantengo e integro **plataformas institucionales y nacionales**. Com
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathanDeLaCruz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDeLaCruz&layout=compact&hide_border=true&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
-
-<img src="https://streak-stats.demolab.com?user=JonathanDeLaCruz&hide_border=true&theme=tokyonight&locale=es" alt="Racha de contribuciones" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanDeLaCruz&hide_border=true&theme=tokyo-night&area=true" alt="Gráfica de actividad" />
 
 </div>
 
